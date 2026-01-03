@@ -82,7 +82,7 @@ EventVibe is a role-based web platform that helps groups find optimal events by 
   
 - **Demo Video :** [Add Demo Video Link Here]
   
-- **Github Repository Link:** [Add Demo Video Link Here]
+- **Github Repository Link:** [https://github.com/MadhanBV/Event-Vibe.git]
   
 - **Presentation / PPT:** [Add PPT Link Here]
   
